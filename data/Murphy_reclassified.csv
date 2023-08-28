@@ -1,0 +1,17 @@
+﻿kenny,kenny_description,murphy,murphy_description,frequency,crownfires
+rainforests,fire should be avoided,Rainforest (tropical),rare low-intensity litter fires in autumn,rare,none
+NA,NA,Eucalypt forest and woodland (tropical),infrequent low-intensity grass fires in winter and medium-intensity shrub fires in spring,infrequent,none
+NA,NA,Eucalypt savanna woodland (monsoon tropical),very frequent low-intensity grass fires in winter and spring,frequent,none
+NA,NA,Eucalypt woodland (tropical semi-arid),frequent to infrequent low-intensity grass fires in spring and summer,frequent,none
+grasslands,for perennial tussock grasslands: 2 - 10 years; some intervals greater than 7 desirable on the coast,Tussock grassland (tropical semi-arid/arid),very infrequent low-intensity grass fires in spring and summer,frequent,none
+arid and semi-arid shrublands(?),for hummock grasslands: 10 - 15 years allows for elimination of Callitris; note: minimal occurrence in NSW,Hummock grassland (semi-arid/arid),infrequent medium-intensity grass fires in spring,frequent,none
+"wet sclerophyll forests, and semi-mesic grassy forests",surface fires 25 - 60 (wet sclerophyll forests) or 10 - 50 (semi-mesic grassy forests); very infrequent crown fires,Tall eucalypt forest (temperate),very infrequent high-intensity crown fires in summer,infrequent,facultative
+"dry sclerophyll forests (shrubby), and dry sclerophyll forests (shrub/grass)",5 - 50 (dry sclerophyll forests shrubby) or 7 - 30 (dry sclerophyll shrub/grass); intervals greater than 25 maintain shrubs,Eucalypt forest (temperate),infrequent low-intensity litter fires in spring and medium-intensity shrub fires in spring and summer,infrequent,facultative
+sclerophyll grassy woodlands,5 - 40 years or 10 - 40 years (Southern Tablelands); intervals greater than 15 years desirable to maintain overstorey,Eucalypt woodland (temperate),infrequent low-intensity litter fires in spring and summer,infrequent,none
+"semi-arid woodlands, and arid and semi-arid shrublands",for mallee semi-arid woodlands and mallee arid or semi-arid shrublands: 5 - 40 years; mosaic required to maintain bird diversity (some intervals less than 10 and some greater than 40 years may be appropriate); 10-15 year interval eliminates Callitris,Mallee (temperate),infrequent medium-intensity shrub fires in spring and summer,infrequent,facultative
+heathlands,7 - 30 years; some intervals greater than 20 years desirable for maintaining regeneration,Heath (temperate),infrequent medium-intensity shrub fires in winter and spring,infrequent,obligate
+"semi-arid woodlands, and arid and semi-arid shrublands",for mulga semi-arid woodlands and mulga arid or semi-arid shrublands: 5 - 40 years; mosaic required to maintain bird diversity (some intervals less than 10 and some greater than 40 years may be appropriate),Acacia shrubland (mulga) (semi-arid/arid),rare low-intensity grass or medium-intensity shrub fires in spring and summer,infrequent,facultative
+arid and semi-arid shrublands,for chenopod arid and semi-arid shrublands: no fire recommended,Chenopod shrubland (semi-arid/arid),rare low-intensity litter fires in spring and summer,rare,obligate
+NA,NA,"Pasture, cropland (temperate)",infrequent low-intensity grass fires in autumn,infrequent,none
+NA,NA,Pasture (tropical and subtropical),infrequent low-intensity grass fires in spring and summer,infrequent,none
+NA,NA,Unclassified,no data,NA,NA
